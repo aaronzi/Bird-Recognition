@@ -1,2 +1,2 @@
 # Bird-Recognition
-API to recognize birds on images
+API to identify birds on images
